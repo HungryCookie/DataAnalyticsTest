@@ -1,0 +1,1 @@
+data_path = '/Users/olega/Downloads/claims_test.csv'
